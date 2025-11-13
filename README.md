@@ -1,4 +1,4 @@
-# UTS Mobile App - Pemrograman Mobile
+# ETS Mobile App - Pemrograman Mobile
 
 ## 📱 Informasi Mahasiswa
 
@@ -21,7 +21,7 @@ Aplikasi ini merupakan aplikasi mobile berbasis Flutter yang terdiri dari 5 menu
     - Foto mahasiswa
     - NIM
     - Nama mahasiswa
-- Dilengkapi dengan animasi fade-in
+<img width="310" height="677" alt="SplashScreen" src="https://github.com/user-attachments/assets/acb7480e-c76a-4630-9bd9-d774b876d950" />
 
 ### 2. Dashboard dengan Bottom Navigation
 Menu utama aplikasi yang terdiri dari 5 navigasi:
@@ -30,6 +30,7 @@ Menu utama aplikasi yang terdiri dari 5 navigasi:
 - Kalkulator
 - Cuaca
 - Berita
+<img width="314" height="671" alt="Dashboard Biodata" src="https://github.com/user-attachments/assets/0afa30fe-5a65-4665-80d0-25a734e83622" />
 
 ### 3. Halaman Biodata
 Fitur:
@@ -37,9 +38,10 @@ Fitur:
 - Form input data dengan berbagai widget:
     - TextField untuk alamat
     - Dropdown untuk hobi
-    - DatePicker untuk tanggal lahir (Calendar)
+    - DatePicker untuk tanggal lahir (kalender)
     - RadioButton untuk jenis kelamin
 - Tombol simpan (data tidak disimpan ke database)
+<img width="314" height="671" alt="Dashboard Biodata" src="https://github.com/user-attachments/assets/d5d626fa-34e2-4ea4-b395-300702563e97" />
 
 ### 4. Halaman Kontak
 Fitur:
@@ -49,7 +51,11 @@ Fitur:
     - Nama kontak
     - Nomor telepon
     - Tombol call
+    - Message dan salin nomor saat diklik
+      <img width="314" height="675" alt="Msg" src="https://github.com/user-attachments/assets/021f2227-67a1-498f-8c75-e0c28516e510" />
+
 - Data bersifat statis dari variabel
+<img width="312" height="672" alt="Kontak" src="https://github.com/user-attachments/assets/27745889-26c8-4a7e-a6a4-00070d48189e" />
 
 ### 5. Halaman Kalkulator
 Fitur operasi matematika:
@@ -61,6 +67,7 @@ Fitur operasi matematika:
 - Akar kuadrat (√)
 - Tombol Clear (C)
 - Display hasil yang besar dan jelas
+<img width="311" height="673" alt="Kalkulator" src="https://github.com/user-attachments/assets/9bdd6029-3ac8-4e79-bd41-dc194330c201" />
 
 ### 6. Halaman Cuaca
 Fitur:
@@ -70,9 +77,8 @@ Fitur:
     - Kondisi cuaca dengan icon
     - Kelembapan
     - Kecepatan angin
-    - Jarak pandang
-    - Tekanan udara
     - Perkiraan 7 hari ke depan
+<img width="312" height="673" alt="Cuaca" src="https://github.com/user-attachments/assets/c735e880-70b3-47fb-ab13-8c7bf5f763e5" />
 
 ### 7. Halaman Berita
 Fitur:
@@ -81,6 +87,7 @@ Fitur:
     - Icon kategori dengan warna berbeda
     - Judul berita
     - Ringkasan berita
+<img width="310" height="667" alt="Berita" src="https://github.com/user-attachments/assets/b28bfdb5-c6b5-4522-8056-6f853e870314" />
 
 ## 🚀 Cara Clone Aplikasi
 
