@@ -35,12 +35,11 @@ Menu utama aplikasi yang terdiri dari 5 navigasi:
 Fitur:
 - Menampilkan foto profil dengan desain menarik
 - Form input data dengan berbagai widget:
-    - TextField untuk nama, NIM, email, dan alamat
+    - TextField untuk alamat
+    - Dropdown untuk hobi
     - DatePicker untuk tanggal lahir (Calendar)
     - RadioButton untuk jenis kelamin
-    - Dropdown untuk agama
 - Tombol simpan (data tidak disimpan ke database)
-- UI/UX yang responsive dan modern
 
 ### 4. Halaman Kontak
 Fitur:
@@ -49,9 +48,8 @@ Fitur:
     - Circle avatar dengan inisial
     - Nama kontak
     - Nomor telepon
-    - Tombol call dan message
+    - Tombol call
 - Data bersifat statis dari variabel
-- Tampilan card yang modern
 
 ### 5. Halaman Kalkulator
 Fitur operasi matematika:
@@ -63,7 +61,6 @@ Fitur operasi matematika:
 - Akar kuadrat (√)
 - Tombol Clear (C)
 - Display hasil yang besar dan jelas
-- UI dengan warna yang intuitif
 
 ### 6. Halaman Cuaca
 Fitur:
@@ -75,8 +72,7 @@ Fitur:
     - Kecepatan angin
     - Jarak pandang
     - Tekanan udara
-    - Prakiraan 5 hari ke depan
-- Desain dengan gradient background yang menarik
+    - Perkiraan 7 hari ke depan
 
 ### 7. Halaman Berita
 Fitur:
@@ -85,10 +81,6 @@ Fitur:
     - Icon kategori dengan warna berbeda
     - Judul berita
     - Ringkasan berita
-    - Tanggal publikasi
-    - Kategori berita
-- Tampilan card dengan layout yang responsive
-- Detail berita muncul saat card diklik
 
 ## 🚀 Cara Clone Aplikasi
 
@@ -133,7 +125,7 @@ Fitur yang dapat dikembangkan:
 
 ## 👨‍💻 Developer
 
-Dikembangkan oleh *Yasrifal Fawaz* untuk memenuhi tugas UTS Pemrograman Mobile.
+Dikembangkan oleh *Yasrifal Fawaz* untuk memenuhi ETS Pemrograman Mobile.
 
 ## 📄 Lisensi
 
@@ -144,5 +136,3 @@ Aplikasi ini dikembangkan untuk keperluan akademik di Institut Teknologi Nasiona
 *Institut Teknologi Nasional Bandung*  
 Jl. Khp Hasan Mustopa No.23, Bandung - 40124  
 © 2024
-
-  <img width="431" height="262" alt="Screenshot 2025-11-13 122659" src="https://github.com/user-attachments/assets/29283495-dee8-46ec-a33d-b0ecad0afcdd" />
