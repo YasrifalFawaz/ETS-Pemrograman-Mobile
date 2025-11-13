@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'dashboard_page.dart'; // Kita akan buat file ini selanjutnya
+import 'dashboard_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -50,18 +50,15 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Ganti dengan logo atau gambar yang sesuai
             FlutterLogo(size: 100),
             const SizedBox(height: 24),
             Text(
-              "Judul Aplikasi Anda", // 
+              "Simple Phone", // 
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 16),
-            // Ganti dengan foto Anda 
             CircleAvatar(
               radius: 50,
-              // Ganti dengan gambar Anda di folder assets
               backgroundImage: AssetImage('assets/images/profil.jpg'), 
               backgroundColor: Colors.grey[200],
             ),
